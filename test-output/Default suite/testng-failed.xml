@@ -5,7 +5,7 @@
     <classes>
       <class name="testcases.TC2">
         <methods>
-          <include name="TC1" invocation-numbers="0 1 2"/>
+          <include name="TC1" invocation-numbers="0 1 2 3"/>
           <include name="setup"/>
           <include name="teardown"/>
         </methods>
